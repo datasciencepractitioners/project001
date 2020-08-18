@@ -1,2 +1,3 @@
-# project001
-project 001
+# Question
+
+List math foundations necessary for Data Science Practitioner
